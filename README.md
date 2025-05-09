@@ -10,3 +10,9 @@ git clone https://github.com/microsoft/vcpkg.git
 ./vcpkg/vcpkg new --application
 ./vcpkg/vcpkg add port readline catch2
 ```
+
+## 编译运行
+
+```bash
+./build.sh
+```
